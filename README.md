@@ -8,6 +8,10 @@ Open the GitHub Pages site over HTTPS, then use Chrome's **Install app** / **Add
 
 Phase A includes a fixed 20 lb weighted vest, simple post-workout cold-plunge logs, and continued adapted training after mastery. Power Level starts at 416 and reaches 150,000,000 at first Super Saiyan; the Mastered Super Saiyan anchor of 300,000,000 is app tuning, not an official canon value. Fitness stats and training targets remain based on recorded performance.
 
-Power Level is game feedback, not a medical measurement. Stop activities that hurt. Cold-plunge guidance is optional and never required for training credit. Character assets and animations are a later phase; training beyond Mastered Super Saiyan is not authored.
+Phase B adds scenic flying-character artwork that follows earned stages, illustrated power-up and graduation sequences, battle-worn setback scenes, and an optional recovery tank. Scenes support replay, skip, reduced motion, missing-image fallback and offline use. Training beyond Mastered Super Saiyan is not authored.
 
-The app shell and assets use original CSS/SVG illustrations. This is an independent personal fan project, not affiliated with the Dragon Ball rights holders.
+Power Level is game feedback, not a medical measurement. Stop activities that hurt. Cold-plunge guidance is optional and never required for training credit.
+
+The app combines CSS/SVG interface illustrations with AI-generated character artwork. This is an independent personal fan project, not affiliated with the Dragon Ball rights holders.
+
+For an installed app, open **Settings & data → Update & reload** when the update is ready. Newer versions also show an update banner before profile setup. Saved training records stay on the device.
