@@ -10,6 +10,8 @@ Phase A includes a fixed 20 lb weighted vest, simple post-workout cold-plunge lo
 
 Phase B adds scenic flying-character artwork that follows earned stages, illustrated power-up and graduation sequences, battle-worn setback scenes, and an optional recovery tank. Scenes support replay, skip, reduced motion, missing-image fallback and offline use. Training beyond Mastered Super Saiyan is not authored.
 
+Mission cards and the pre-workout check-in also show chapter-specific training scenes, from Turtle School through the Room of Spirit and Time. Nine illustrated locations follow chapter progress and earned forms, work offline, and respect the Character scenes preference.
+
 Manual body measurements accept hundredths, including RENPHO tape readings. Previous readings, history, change summaries and measurement charts show two decimal places in either unit system; JSON backups retain the saved precision.
 
 Power Level is game feedback, not a medical measurement. Stop activities that hurt. Cold-plunge guidance is optional and never required for training credit.
